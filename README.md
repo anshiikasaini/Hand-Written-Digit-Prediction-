@@ -1,1 +1,1 @@
-# Hand-Written-Digit-Prediction-
+# Loan_Prediction
